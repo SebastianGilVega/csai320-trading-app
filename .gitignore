@@ -1,0 +1,17 @@
+# Streamlit secrets containing sensitive AWS credentials
+.streamlit/secrets.toml
+
+# Python virtual environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+.venv/
+
+# OS / IDE artifacts
+.DS_Store
+Thumbs.db
+.vscode/
